@@ -73,4 +73,4 @@ No other portion of 3D Game Shaders For Beginners has been licensed for use.
 
 (C) 2021 Thu hương
 <br>
-[Thu hương](https://github.com/thuhuong2k)
+[Thuhuong](https://github.com/thuhuong2k)
