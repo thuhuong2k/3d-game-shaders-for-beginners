@@ -67,10 +67,10 @@ No other portion of 3D Game Shaders For Beginners has been licensed for use.
 
 ## Attributions
 
-- [Kiwi Soda Font](https://fontenddev.com/fonts/kiwi-soda/)
+- [Game thu hương](https://github.com/thuhuong2k/3d-game-shaders-for-beginners/edit/master/README.md)
 
 ## Copyright
 
-(C) 2019 David Lettier
+(C) 2021 Thu hương
 <br>
-[lettier.com](https://www.lettier.com)
+[Thu hương](https://github.com/thuhuong2k)
